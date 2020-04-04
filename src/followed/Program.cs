@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Followed
+namespace Solid.Followed
 {
     class Program
     {

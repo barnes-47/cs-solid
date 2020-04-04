@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Followed.Test
+namespace Solid.Followed.Test
 {
     public class UnitTest1
     {

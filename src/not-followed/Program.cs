@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cs.Solid.NotFollowed
+namespace Solid.NotFollowed
 {
     class Program
     {
